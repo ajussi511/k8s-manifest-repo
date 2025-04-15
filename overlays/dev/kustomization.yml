@@ -6,7 +6,7 @@ images:
   newTag: abcdefg
 - name: 767828758165.dkr.ecr.ap-northeast-2.amazonaws.com/demo-frontend
   newName: 767828758165.dkr.ecr.ap-northeast-2.amazonaws.com/demo-frontend
-  newTag: de40029e
+  newTag: 7183e52b
 resources:
 - ../../base
 patchesStrategicMerge:
